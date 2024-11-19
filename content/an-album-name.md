@@ -1,16 +1,16 @@
 ---
 # Mandatory parts :
-title: "An Album Name"
+title: "Closer"
 date: 2024-11-19T15:54:41+01:00
 draft: false
 
 # Optional parts that you still should fill in order to sort your collection
 
 ## Label : name of the label that published the record
-label: Record's Label
+label: ElectroPop
 
 ## The artist's name
-artist: Record's Band
+artist: The Chainsmokers
 
 ## The genres this record is classified into
 genres:
