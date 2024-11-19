@@ -1,0 +1,12 @@
+baseurl = 'https://elbertogamer.github.io'
+languageCode = 'en-us'
+title = 'My Vinyl Records Collection'
+author = 'ElbertoGamer'
+theme = 'vinyl-records-collection-theme'
+
+[taxonomies]
+  artist = 'artist'
+  genres = 'genres'
+  label = 'label'
+  year = 'year'
+  format = 'format'
